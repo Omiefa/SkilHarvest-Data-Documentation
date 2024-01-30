@@ -1,4 +1,5 @@
 # SkilHarvest-Data-Documentation
+![](Data_Analytics.jpg)
 
 ## Project Overview
 This Data Analysis project aims to generate insight into the sales performance of the E-commerce project over the past year. By analysing the various parameters in the data received, we seek to gether enough insight to make reasonable decisions which then enables us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
@@ -28,8 +29,5 @@ WHERE A, B, C = Positive integers
 ```
 
 ## Results / Findings
-![](Data_Analytics_Process)
-![](Data_Analytics)
+![](Data_Analytics_Process.png)
 This is where you put the insight gotten from the analysis
-
-- 
