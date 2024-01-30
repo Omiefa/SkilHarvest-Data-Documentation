@@ -30,4 +30,5 @@ WHERE A, B, C = Positive integers
 
 ## Results / Findings
 ![](Data_Analytics_Process.png)
+
 This is where you put the insight gotten from the analysis
