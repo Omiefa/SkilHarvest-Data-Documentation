@@ -5,7 +5,8 @@
 - [Tools Used](#tools-used)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Data Analysis](#data-analysis)
-- [Results Findings](results-findings)
+- [Results / Findings](results-findings)
+- [Tables](#tables)
 
 ![](Data_Analytics.jpg)
 
@@ -45,6 +46,7 @@ This is where you put the insight gotten from the analysis
 
 *italic*
 
+## Tables
 |Heading 1 | Heading 2 | Heading 3 |
 | ---------| ----------| ----------|
 | Data 1 | Data 2 | Data 3 |
