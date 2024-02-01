@@ -1,4 +1,15 @@
 # SkilHarvest-Data-Documentation
+**Documentation Outline**
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Data Analysis](#data-analysis)
+
+[Results / Findings](results-findings)
+
 ![](Data_Analytics.jpg)
 
 ## Project Overview
@@ -32,3 +43,11 @@ WHERE A, B, C = Positive integers
 ![](Data_Analytics_Process.png)
 
 This is where you put the insight gotten from the analysis
+
+**bold**
+
+*italic*
+
+|Heading 1 | Heading 2 | Heading 3 |
+| ---------| ----------| ----------|
+| Data 1 | Data 2 | Data 3 |
