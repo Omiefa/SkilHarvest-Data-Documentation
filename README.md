@@ -5,7 +5,7 @@
 - [Tools Used](#tools-used)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Data Analysis](#data-analysis)
-- [Results and Findings](results-and-findings)
+- [Results / Findings](results-/-findings)
 - [Tables](#tables)
 
 ![](Data_Analytics.jpg)
@@ -37,7 +37,7 @@ FROM Table 1
 WHERE A, B, C = Positive integers
 ```
 
-## Results and Findings
+## Results / Findings
 ![](Data_Analytics_Process.png)
 
 This is where you put the insight gotten from the analysis
